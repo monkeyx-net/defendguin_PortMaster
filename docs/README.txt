@@ -1,3 +1,6 @@
+This project was forked into Git to allow code customisations for to get game running on devices supported by the [PortMaster Project](https://github.com/PortsMaster)
+
+
 README for Defendguin
 
 by Bill Kendrick
@@ -98,7 +101,7 @@ OPTIONS
 
   Note: Your settings will be saved in a file called ".defendguinrc" in
   your home directory.
-  
+
   The Options screen lets you change the volume of both sound effects
   and music in Defendguin, as well as configure a joystick.
   You can choose which fire button fires lasers, and which fires smart bombs,
@@ -107,7 +110,7 @@ OPTIONS
   You may also choose to disable the horizontal controls (by choosing "-1"
   as the X axis input, and setting the "NO_HAT_X" option to "1"), and
   configure buttons for thrust and reverse controls.
-  
+
   For example, when using a Sony PlayStation 2 controller via a USB adapter,
   I chose the following settings:
 
@@ -166,7 +169,7 @@ GAME CONTROLS
   [ JOYFIRE A ]
 
   [ TAB / P KEY ]        -- Pause / unpause.
-      
+
   [ ESCAPE ]             -- Abort the game in progress, return to the title menu.
 
 
@@ -286,7 +289,7 @@ PLAYING THE GAME
       When you begin the game, you have three smart bombs.  To use one,
       press [ CTRL ], [ SHIFT ] or [ ALT ], or your chosen joystick
       firebutton (see "Options", above).
-      
+
       The screen flashes and all aliens and alien bullets on the screen
       will explode.
 
