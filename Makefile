@@ -14,7 +14,7 @@ PREFIX=data/
 MAN_PREFIX=$(PREFIX)
 BIN_PREFIX=$(PREFIX)/bin
 DATA_PREFIX=$(PREFIX)
-JOY=YES
+JOY=NO
 EXTRA_LIBS= # override, e.g., with "-lbe" for Haiku
 
 
